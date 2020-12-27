@@ -1,0 +1,16 @@
+body{
+    background-color: wheat;
+}
+.a1,.a2,.a3{
+ 
+    padding: 2.5cm;
+    background-color: white;
+    margin-top: 5cm;
+    margin-left: 10cm;
+    margin-right: 10cm;
+}
+#h1{
+    text-align: center;
+    font-family: monospace;
+    font-size: 2cm;
+}
